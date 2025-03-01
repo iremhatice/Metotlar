@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\bin\Debug\net8.0\5-Ref_Out_Params.exe
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\bin\Debug\net8.0\5-Ref_Out_Params.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\bin\Debug\net8.0\5-Ref_Out_Params.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\bin\Debug\net8.0\5-Ref_Out_Params.dll
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\bin\Debug\net8.0\5-Ref_Out_Params.pdb
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.dll
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\refint\5-Ref_Out_Params.dll
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.pdb
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\5-Ref_Out_Params.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\5-Ref_Out_Params\obj\Debug\net8.0\ref\5-Ref_Out_Params.dll

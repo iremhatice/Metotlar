@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D4B5A8-D62A-4F24-BBCF-8D194C441CC2}|7-Metot_Ornek\\7-Metot_Ornek.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\7-metot_ornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D4B5A8-D62A-4F24-BBCF-8D194C441CC2}|7-Metot_Ornek\\7-Metot_Ornek.csproj|solutionrelative:7-metot_ornek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C476B72F-45A2-4D6D-AC0E-F52BB5CF8228}|6-HesapMakinesi\\6-HesapMakinesi.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\6-hesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C476B72F-45A2-4D6D-AC0E-F52BB5CF8228}|6-HesapMakinesi\\6-HesapMakinesi.csproj|solutionrelative:6-hesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C696ABC5-E2C5-4959-9992-DF3ED7D36727}|5-Ref_Out_Params\\5-Ref_Out_Params.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\5-ref_out_params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C696ABC5-E2C5-4959-9992-DF3ED7D36727}|5-Ref_Out_Params\\5-Ref_Out_Params.csproj|solutionrelative:5-ref_out_params\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815149FA-818A-421A-A9C4-1437A7BD0C6C}|4-RecursiveMetot\\4-RecursiveMetot.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\4-recursivemetot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815149FA-818A-421A-A9C4-1437A7BD0C6C}|4-RecursiveMetot\\4-RecursiveMetot.csproj|solutionrelative:4-recursivemetot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACD75E4-A398-42CB-89FB-2D8F08198605}|3-MetotOverloading\\3-MetotOverloading.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\3-metotoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACD75E4-A398-42CB-89FB-2D8F08198605}|3-MetotOverloading\\3-MetotOverloading.csproj|solutionrelative:3-metotoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27AA773-009D-485B-BAA1-FE84017095E2}|2-GeriyeDegerDondurenMetot\\2-GeriyeDegerDondurenMetot.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\2-geriyedegerdondurenmetot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27AA773-009D-485B-BAA1-FE84017095E2}|2-GeriyeDegerDondurenMetot\\2-GeriyeDegerDondurenMetot.csproj|solutionrelative:2-geriyedegerdondurenmetot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69FC1D6-7E9A-4120-B713-01E1071272A3}|1-GeriyeDegerDondurmeyenMetot\\1-GeriyeDegerDondurmeyenMetot.csproj|c:\\users\\pc\\desktop\\\u00E7al\u0131\u015Fmalar\u0131m\\metotlar\\1-geriyedegerdondurmeyenmetot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69FC1D6-7E9A-4120-B713-01E1071272A3}|1-GeriyeDegerDondurmeyenMetot\\1-GeriyeDegerDondurmeyenMetot.csproj|solutionrelative:1-geriyedegerdondurmeyenmetot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\7-Metot_Ornek\\Program.cs",
+              "RelativeDocumentMoniker": "7-Metot_Ornek\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\7-Metot_Ornek\\Program.cs",
+              "RelativeToolTip": "7-Metot_Ornek\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:41:37.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\6-HesapMakinesi\\Program.cs",
+              "RelativeDocumentMoniker": "6-HesapMakinesi\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\6-HesapMakinesi\\Program.cs",
+              "RelativeToolTip": "6-HesapMakinesi\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:37:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\5-Ref_Out_Params\\Program.cs",
+              "RelativeDocumentMoniker": "5-Ref_Out_Params\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\5-Ref_Out_Params\\Program.cs",
+              "RelativeToolTip": "5-Ref_Out_Params\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwHMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:19:33.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\4-RecursiveMetot\\Program.cs",
+              "RelativeDocumentMoniker": "4-RecursiveMetot\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\4-RecursiveMetot\\Program.cs",
+              "RelativeToolTip": "4-RecursiveMetot\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:13:34.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\3-MetotOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "3-MetotOverloading\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\3-MetotOverloading\\Program.cs",
+              "RelativeToolTip": "3-MetotOverloading\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:05:13.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\2-GeriyeDegerDondurenMetot\\Program.cs",
+              "RelativeDocumentMoniker": "2-GeriyeDegerDondurenMetot\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\2-GeriyeDegerDondurenMetot\\Program.cs",
+              "RelativeToolTip": "2-GeriyeDegerDondurenMetot\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwHsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:43:48.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\1-GeriyeDegerDondurmeyenMetot\\Program.cs",
+              "RelativeDocumentMoniker": "1-GeriyeDegerDondurmeyenMetot\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\\u00C7al\u0131\u015Fmalar\u0131m\\Metotlar\\1-GeriyeDegerDondurmeyenMetot\\Program.cs",
+              "RelativeToolTip": "1-GeriyeDegerDondurmeyenMetot\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:31:49.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

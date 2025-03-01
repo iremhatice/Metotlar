@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\bin\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.exe
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\bin\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\bin\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\bin\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.dll
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\bin\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.pdb
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.dll
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\refint\1-GeriyeDegerDondurmeyenMetot.dll
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.pdb
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\1-GeriyeDegerDondurmeyenMetot.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\Metotlar\1-GeriyeDegerDondurmeyenMetot\obj\Debug\net8.0\ref\1-GeriyeDegerDondurmeyenMetot.dll
